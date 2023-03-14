@@ -1,0 +1,7 @@
+@inproceedings{REPO-124,
+    author = "Pan, Tian and Song, Enge and Bian, Zizheng and Lin, Xingchen and Peng, Xiaoyu and Zhang, Jiao and Huang, Tao and Liu, Bin and Liu, Yunjie",
+    booktitle = "IEEE INFOCOM 2019-IEEE Conference On Computer Communications",
+    pages = "487--495",
+    title = "{Int-path: Towards Optimal Path Planning for In-band Network-wide Telemetry}",
+    year = "2019"
+}
